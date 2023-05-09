@@ -49,6 +49,10 @@ body {
     
 }
 
+.metalurgica {
+    visibility: hidden;
+}
+
 .metalurgica img {
     width: 98.7vw;
     height: 304px;
@@ -229,6 +233,9 @@ body {
     font-size: 50px;
     font-weight: bolder;
 }
+
+
+
 
 
 
